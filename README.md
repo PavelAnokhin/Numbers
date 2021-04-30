@@ -1,2 +1,0 @@
-# Numbers
-Lessons of Java
